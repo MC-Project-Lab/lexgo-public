@@ -2,6 +2,8 @@
 
 Local-first privacy layer for documents before AI.
 
+![LEXGO preview](assets/lexgo-preview.png)
+
 LEXGO is a prototype designed to prepare sensitive documents before they are used with tools such as ChatGPT, Claude, Copilot or Gemini. It focuses on detecting personal data, preserving useful context with placeholders, and letting the user review the output before sharing it.
 
 This public repository is a product preview. The proprietary core is not included.
